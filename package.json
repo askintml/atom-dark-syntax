@@ -1,11 +1,15 @@
 {
   "name": "BasicDark-syntax",
   "theme": "syntax",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Red and blue focused ,dark basic syntax theme",
   "keywords": [
     "syntax",
-    "theme","red","blue","dark","basic"
+    "theme",
+    "red",
+    "blue",
+    "dark",
+    "basic"
   ],
   "repository": "https://github.com/askintml/atom-dark-syntax",
   "license": "MIT",
